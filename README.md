@@ -14,4 +14,5 @@ The Rosa é um projeto de interface web com foco em identidade visual sofisticad
 
 ## Hospedagem
 
-Realizada pelo GitPages:
+Realizada pelo GitPages: 
+https://pgasaabyy.github.io/TheRosa/index.html
